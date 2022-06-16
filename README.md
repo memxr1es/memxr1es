@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @memxr1es
 - 👀 I’m interested in programming on C++
-- 🌱 I’m currently learning c++ and c#
+- 🌱 I’m currently learning python for ml...(pls, help me. I wanna programing ML at c++, but idk how. If u now how, pls, write me)
 - 📫 How to reach me : nikita260.kotov@yandex.ru
 
 <!---
