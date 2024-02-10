@@ -20,3 +20,10 @@
 - :man_technologist: I'm constantly trying to come up with an interesting project and implement it solo
 - :envelope: Reach me by [email](mailto:memxr1es-dev@yandex.ru)
 - :earth_americas: At the moment, I am trying to practice and improve my English skills
+
+### Languages and Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" title="swift" width="40" height="40" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" title="xCode" width="40" height="40" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="csharp" width="40" height="40" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="cplusplus" width="40" height="40" /> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="SQL" width="40" height="40" /> &nbsp;
